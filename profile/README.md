@@ -4,9 +4,14 @@ CO-Auth aims to be the **Guard** for your applications after Authentication. All
 
 We aim to create a welcoming community. CO-Auth open source is goverened by our [code of conduct](https://github.com/coauth/.github/blob/main/code-of-conduct.md).
 
+## Documentation
+
+For Documentation, check out [link](https://documentation.coauth.dev)
+
+
 ## Contribution
 
-For contribution, check out our [documentation](https://github.com/coauth/.github/blob/main/profile/CONTRIBUTING.md)
+For contribution, check out our [CONTRIBUTING.md](https://github.com/coauth/.github/blob/main/profile/CONTRIBUTING.md)
 
 ## Get in touch!
 
