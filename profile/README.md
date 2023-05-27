@@ -6,7 +6,7 @@ We aim to create a welcoming community. CO-Auth open source is goverened by our 
 
 ## Contribution
 
-For contribution, check out our [documentation](https://documentation.coauth.dev)
+For contribution, check out our [documentation](https://github.com/coauth/.github/blob/main/profile/CONTRIBUTING.md)
 
 ## Get in touch!
 
